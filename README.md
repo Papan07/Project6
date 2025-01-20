@@ -1,4 +1,4 @@
 # Project6
 
 ## pong
-<img src="./Pong.png">
+<img src="Pong.png">
